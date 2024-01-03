@@ -1,0 +1,26 @@
+﻿  driver.cpp
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(168,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(180,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(190,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(202,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(213,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(236,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\UtilityFunctions.h(241,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\VerifyFunctions.h(141,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\VerifyFunctions.h(241,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\AddCustomer.h(55,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\ChangeCustomerInfo.h(198,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\ChangeCustomerInfo.h(219,29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(23,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(50,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(108,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(83,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(153,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(128,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(414,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(388,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(485,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(459,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(715,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\ISE new Project\BillingInfo.h(734,30): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  ISE new Project.vcxproj -> C:\Users\ishaa\source\repos\ISE new Project\ISE new Project\x64\Debug\ISE new Project.exe

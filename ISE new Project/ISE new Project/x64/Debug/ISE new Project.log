@@ -1,0 +1,27 @@
+﻿  driver.cpp
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(170,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(182,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(192,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(204,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(215,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(238,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\UtilityFunctions.h(243,27): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\VerifyFunctions.h(195,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\VerifyFunctions.h(295,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\AddCustomer.h(55,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\ChangeCustomerInfo.h(198,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\ChangeCustomerInfo.h(219,29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(214,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(249,7): warning C4101: 'dummy': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(307,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(282,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(352,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(327,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(616,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(590,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(691,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(665,8): warning C4101: 'data': unreferenced local variable
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(791,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(809,29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\ISE new Project\BillingInfo.h(904,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  ISE new Project.vcxproj -> C:\Users\ishaa\OneDrive - FAST National University\Desktop\ISE new Project\x64\Debug\ISE new Project.exe
